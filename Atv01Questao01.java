@@ -3,8 +3,9 @@ import java.util.Scanner;
 public class Questao01 {
 
 	public static void main(String[] args) {
-		// Escreva um algoritmo que leia dois números inteiros, calcule e mostre na tela a soma
+		// 1) Escreva um algoritmo que leia dois números inteiros, calcule e mostre na tela a soma
 		//deles com uma mensagem informando a operação realizada.
+	
 		
 		Scanner leia = new Scanner (System.in);
 		
